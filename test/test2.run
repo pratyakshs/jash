@@ -1,0 +1,5 @@
+cd test
+ls
+echo "hello world"
+pwd
+sleep 2

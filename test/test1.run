@@ -1,0 +1,6 @@
+ls -l 
+ps
+gibberesidh
+cd ~/Downloads
+run test/test2.run
+pwd
